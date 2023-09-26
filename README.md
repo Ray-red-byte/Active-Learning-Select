@@ -2,7 +2,9 @@
 ## Introduction
    This project use Active-Learning to select steel images to train Mask-RCNN model.
 ## Project Tool
-   Project Step : </br>
+   1. Python (PyTorch / Scikit-Learn / Pandas / Numpy)
+   2. Machine Learning Theorem
+## Project Step  </br>
    1. Dynamic Scheduling : Allocation of Uncertainty Method / Density Method</br>
    2. Mask RCNN Training : Training on selected images</br>
    3. Evaluation : Comparison of accuracy between randomly selected images and images selected using Active Learning</br>
